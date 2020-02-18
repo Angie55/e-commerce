@@ -24,7 +24,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'https://8000-c9735d40-6571-4c40-955f-ad0f33b5e5cd.ws-eu01.gitpod.io/']
+ALLOWED_HOSTS = ['localhost', 'https://8000-c9735d40-6571-4c40-955f-ad0f33b5e5cd.ws-eu01.gitpod.io/', 'eccomerce-lessons.herokuapp.com']
 
 
 # Application definition
